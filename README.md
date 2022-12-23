@@ -1,0 +1,2 @@
+# scoreboard
+Javascript scoreboard!
